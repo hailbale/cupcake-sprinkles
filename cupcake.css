@@ -1,0 +1,46 @@
+body {
+	border-right: 50px dotted #FFFAFA; 
+	border-left: 50px dotted #FFFAFA;
+	background-color: LavenderBlush;
+	max-width: 1000px;
+	margin: auto;
+}
+
+
+title {color:pink;}
+h1 { 
+	text-align: center; 
+	font-size: 90px; 
+	font-family: "serif"; 
+	color: pink; 
+	border-bottom: 90px #FF1493;
+}
+
+
+p {
+	text-align: center;
+	font-weight: 900;
+	font-style: oblique;
+	font-family: cursive; 
+	font-size: 30px;
+	color: #FFC0CB;
+}
+
+/* Two image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 49%;
+  padding:5px;
+}
+
+
+
+
+
+
+</body>
+
+
+
+
+
